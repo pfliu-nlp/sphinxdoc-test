@@ -1,6 +1,8 @@
 # Publishing sphinx-generated docs on github
 
-Reference: https://daler.github.io/sphinxdoc-test/includeme.html
+References:<br> 
+1. https://daler.github.io/sphinxdoc-test/includeme.html
+2. https://www.sphinx-doc.org/en/master/tutorial/getting-started.html
 
 ## Protocal
 ## Set up main repository
