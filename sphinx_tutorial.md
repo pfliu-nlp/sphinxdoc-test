@@ -1,1 +1,2 @@
 - Theme change: http://www.suncai.net/Sphinx/sphinx.html
+- reStructuredText Primer: https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#rst-primer
