@@ -5,6 +5,12 @@ References:<br>
 2. https://www.sphinx-doc.org/en/master/tutorial/getting-started.html
 
 ## Protocal
+
+## Install sphinx
+```shell
+pip install Sphinx
+```
+
 ## Set up main repository
 First set up your main repo. These are the commands I used to set up this very repo (how meta!):
 ```
